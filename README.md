@@ -4,4 +4,3 @@ Sales Opportunities Analysis Dashboard for Car/Motorcycle Parts using Tableau.
 •	Implemented KPIs on the dashboard such as Total Opportunities, and Win/Loss percentages for effective sales tracking. 
 •	Created user-friendly filters for regional data segmentation, enabling precise analysis of sales trends. 
 •	Utilized color-coded visualizations to convey the insights effectively, contributing a projected 20% increase in sales success rate.
-![image](https://github.com/ani1805/Data-Analysis-using-Tableau/assets/112847182/50a4da36-5cdd-48b0-bd5b-0a868d30605a)
